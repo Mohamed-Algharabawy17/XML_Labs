@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="library.css"?>
+
+<library>
+  <location>My Library</location>
+  <description>description: A historic library located in Alexandria :)</description>
+  <librarian>librarian: Any thing</librarian>
+  <books>
+    <book>
+      <title>Dommy Book</title>
+      <ISBN>9780743273565</ISBN>
+      <author>Mohamed Algharabawy</author>
+      <preface>
+        <title>Preface</title>
+        <content>introduction to the novel</content>
+      </preface>
+      <parts>
+        <part>
+          <title>Part 1</title>
+          <chapters>
+
+            <chapter>
+              <title>Chapter 1</title>
+              <summary>An overview of events</summary>
+              <sections>
+                <section>
+                  <content>Section 1</content>
+                </section>
+                <section>
+                  <content>Section 2</content>
+                </section>
+              </sections>
+            </chapter>
+
+             <chapter>
+              <title>Chapter 2</title>
+              <summary>An overview of events</summary>
+              <sections>
+                <section>
+                  <content>Section 1</content>
+                </section>
+                <section>
+                  <content>Section 2</content>
+                </section>
+              </sections>
+            </chapter>
+
+          </chapters>
+        </part>
+
+
+        <part>
+          <title>Part 2</title>
+          <chapters>
+
+            <chapter>
+              <title>Chapter 1</title>
+              <summary>An overview of events</summary>
+              <sections>
+                <section>
+                  <content>Section 1</content>
+                </section>
+                <section>
+                  <content>Section 2</content>
+                </section>
+              </sections>
+            </chapter>
+
+             <chapter>
+              <title>Chapter 2</title>
+              <summary>An overview of events</summary>
+              <sections>
+                <section>
+                  <content>Section 1</content>
+                </section>
+                <section>
+                  <content>Section 2</content>
+                </section>
+              </sections>
+            </chapter>
+
+          </chapters>
+        </part>
+
+      </parts>
+    </book>
+
+  </books>
+</library>

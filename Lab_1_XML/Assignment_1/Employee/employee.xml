@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css"?>
+<employees>
+  <employee>
+    <Title>Employee Information</Title>
+    <name>Name: gharabawy</name>
+    <phones>
+      <header>Phone Numbers</header>
+      <phone type="home">Home: 25275275</phone>
+      <phone type="work">Work: 42432323</phone> 
+      <phone type="mobile">Mobile: 0155023455</phone>
+    </phones>
+    <addresses>
+      <header>Addresses</header>
+      <header>First Address</header>
+      <address>
+        <Street>Main Street</Street>
+        <BuildingNumber>123</BuildingNumber>
+        <Region>West</Region>
+        <City>Cityville</City>
+        <Country>Countryland</Country>
+      </address>
+      <header>Second Address</header>
+      <address>
+        <Street>Second Street</Street>
+        <BuildingNumber>456</BuildingNumber>
+        <Region>East</Region>
+        <City>Townsville</City>
+        <Country>Countryland</Country>
+      </address>
+    </addresses>
+    <header>Email</header>
+    <email>gharabawy@example.com</email>
+  </employee>
+
+  <employee>
+    <Title>Employee Information</Title>
+    <name>Name: gharabawy</name>
+    <phones>
+      <header>Phone Numbers</header>
+      <phone type="home">Home: 25275275</phone>
+      <phone type="work">Work: 42432323</phone> 
+      <phone type="mobile">Mobile: 0155023455</phone>
+    </phones>
+    <addresses>
+      <header>Addresses</header>
+      <header>First Address</header>
+      <address>
+        <Street>Main Street</Street>
+        <BuildingNumber>123</BuildingNumber>
+        <Region>West</Region>
+        <City>Cityville</City>
+        <Country>Countryland</Country>
+      </address>
+      <header>Second Address</header>
+      <address>
+        <Street>Second Street</Street>
+        <BuildingNumber>456</BuildingNumber>
+        <Region>East</Region>
+        <City>Townsville</City>
+        <Country>Countryland</Country>
+      </address>
+    </addresses>
+    <header>Email</header>
+    <email>gharabawy@example.com</email>
+  </employee>
+</employees>

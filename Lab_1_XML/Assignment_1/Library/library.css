@@ -1,0 +1,59 @@
+library {
+    display: block;
+    padding: 20px;
+    border: 1px solid red;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin-bottom: 20px;
+    width: 25%;
+    margin: 10px;
+}
+
+location, description, librarian {
+    display: block;
+    margin-bottom: 10px;
+}
+
+location{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+books {
+    display: block;
+}
+
+book {
+    display: block;
+    margin-bottom: 20px;
+}
+
+title, ISBN, author {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: blue;
+}
+
+preface, parts, chapters {
+    display: block;
+}
+
+part > title {
+    font-weight: bold;
+    margin-top: 15px;
+    color: green;
+}
+
+chapter > title, chapter > summary {
+    display: block;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+section > content {
+    display: block;
+    margin-left: 20px;
+}

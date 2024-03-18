@@ -1,0 +1,65 @@
+employees {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+Title{
+  text-align: center;
+  font-weight: bolder;
+  color: red;
+  margin-bottom: 20px;
+}
+
+employee {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border: 1px solid rgb(47, 255, 82);
+  border-radius: 5px;
+  width: calc(33.33% - 40px);
+}
+
+name {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+
+phones {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+phone {
+  margin-right: 10px;
+}
+
+addresses {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+address {
+  margin-bottom: 5px;
+}
+
+
+Street, BuildingNumber, Region, City, Country {
+  display: block;
+}
+
+
+email {
+  font-style: italic;
+}
+
+
+header{
+  font-weight: bolder;
+  color: red;
+}
