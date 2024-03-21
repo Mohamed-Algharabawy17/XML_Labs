@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employee_style.xsl"?>
+<employees>
+    <employee>
+        <name>Mohamed Algharabawy</name>
+        <phones>
+            <phone type="home">01424271414</phone>
+            <phone type="mobile">7825723143</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>123</street>
+                <building_number>1</building_number>
+                <region>any place</region>
+                <city>Alex</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>gharabawy@example.com</email>
+    </employee>
+
+    <employee>
+        <name>Mohamed Algharabawy</name>
+        <phones>
+            <phone type="home">01424271414</phone>
+            <phone type="mobile">7825723143</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>123</street>
+                <building_number>1</building_number>
+                <region>any place</region>
+                <city>Alex</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>gharabawy@example.com</email>
+    </employee>
+
+    <employee>
+        <name>Mohamed Algharabawy</name>
+        <phones>
+            <phone type="home">01424271414</phone>
+            <phone type="mobile">7825723143</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>123</street>
+                <building_number>1</building_number>
+                <region>any place</region>
+                <city>Alex</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>gharabawy@example.com</email>
+    </employee>
+
+</employees>
